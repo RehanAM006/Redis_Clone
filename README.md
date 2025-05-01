@@ -35,7 +35,7 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/RehanAM006/redis-clone-python.git
+git clone https://github.com/RehanAM006/Redis_Clone.git
 cd redis-clone-python
 ```
 
