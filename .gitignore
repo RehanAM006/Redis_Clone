@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.rdb
+*.log
+redis_data/
+.env
+.DS_Store
+.vscode/
+
